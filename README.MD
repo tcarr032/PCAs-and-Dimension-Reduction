@@ -1,0 +1,1 @@
+This is a initial look into PCAs (Principal Component Analysis), SVD (Singular Value Decomposition), and dimensionality reduction.
